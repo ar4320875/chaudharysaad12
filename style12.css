@@ -1,0 +1,61 @@
+body
+{
+    background-color: #fff;
+}
+.header
+{
+    width: 100%;
+    height: 130px;
+    background-color: white;
+}
+.one
+{
+    width: 100%;
+    height: 700px;
+   background-color: #FF1493;
+}
+.two
+{
+    width: 100%;
+    height: 600px;
+    background-color: white;
+}
+.three
+{
+    width: 100%;
+    height: 600px;
+    background-color:#be75d1;
+}
+.four
+{
+    width: 100%;
+    height: 400px;
+    background-color: #fff;
+}
+#slider1
+{
+   width: 50%;
+   height: 600px;
+   background-color: darkseagreen;
+   position: absolute;
+   left: 0;
+}
+#slider2
+{
+    width: 100%;
+    height: 600px;
+    background-color: dodgerblue;
+    position: absolute;
+    left: 50%;
+}
+.six
+{
+   width: 800px;
+   height: 450px; 
+}
+.eleven
+{
+    width: 100%;
+    height: 200px;
+    background-color: #FF1493;
+}
